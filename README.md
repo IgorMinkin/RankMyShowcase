@@ -1,4 +1,4 @@
-Sentiment analyzer for sprint showcases.
+# Sentiment analyzer for sprint showcases
 
 _Features_
 
