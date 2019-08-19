@@ -1,6 +1,6 @@
 Sentiment analyzer for sprint showcases.
 
-*Features*
+_Features_
 
 1. Create a new showcase - returns a link to the showcase URL
 2. Cast a vote
